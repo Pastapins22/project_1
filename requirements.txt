@@ -1,0 +1,6 @@
+pandas
+streamlit
+streamlit-lottie
+emoji
+transformers
+openpyxl #for reading excel files
